@@ -1,2 +1,2 @@
-# FSD-Development
-Former FSD Development Wiki
+# Development
+Former Development Wiki
